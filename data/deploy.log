@@ -1,0 +1,5 @@
+2026-09-29T08:04:50-05:00 DEPLOY candidate build=2026.09.29.5
+2026-09-29T08:05:01-05:00 PREFLIGHT passed
+2026-09-29T08:05:20-05:00 HEALTHCHECK failed live-call-server
+2026-09-29T08:05:21-05:00 DEPLOY HALTED reason=healthcheck
+2026-09-29T08:07:10-05:00 NOTE patch includes normalizeCallIndex export

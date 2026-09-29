@@ -1,0 +1,12 @@
+2026-09-29T13:00:02Z INFO boot build=2026.09.29.4
+2026-09-29T13:00:03Z WARN metrics seat_map loaded=20
+2026-09-29T13:03:11Z ERROR websocket seat=S014 reconnect timeout
+2026-09-29T13:05:00Z INFO health /health 200
+2026-09-29T13:05:18Z ERROR import Cannot find export 'normalizeCallIndex' module=call-index.js
+2026-09-29T13:05:23Z INFO systemd restarting service attempt=1
+2026-09-29T13:05:28Z INFO systemd restarting service attempt=2
+2026-09-29T13:05:33Z INFO systemd restarting service attempt=3
+2026-09-29T13:05:38Z INFO systemd restarting service attempt=4
+2026-09-29T13:06:00Z INFO health /health 200 proxy=cloudflare
+2026-09-29T13:09:42Z ERROR websocket seat=S003 unavailable
+2026-09-29T13:09:44Z ERROR websocket seat=S007 unavailable

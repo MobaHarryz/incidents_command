@@ -1,0 +1,15 @@
+{
+  "name": "incident-command-center",
+  "version": "1.0.0",
+  "description": "Centro de Comando de Incidentes: correlaciona logs, heartbeats e inventario para detectar incidentes, estimar impacto y recomendar el siguiente paso seguro.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "report": "node src/cli.js",
+    "test": "node --test \"test/*.test.js\""
+  }
+}

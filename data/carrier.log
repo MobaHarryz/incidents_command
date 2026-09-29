@@ -1,0 +1,5 @@
+2026-09-29T13:01:00Z carrier=Alpha action=quote status=200
+2026-09-29T13:02:10Z carrier=Beta action=login status=302
+2026-09-29T13:02:11Z carrier=Beta action=quote status=401 message=session_expired
+2026-09-29T13:02:15Z carrier=Beta action=quote status=401 message=session_expired
+2026-09-29T13:05:22Z carrier=Alpha action=quote status=200

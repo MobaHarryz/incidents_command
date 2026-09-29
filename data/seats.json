@@ -1,0 +1,102 @@
+[
+  {
+    "seat": "S001",
+    "agency": "Demo Agency A",
+    "active_call": false
+  },
+  {
+    "seat": "S002",
+    "agency": "Demo Agency A",
+    "active_call": true
+  },
+  {
+    "seat": "S003",
+    "agency": "Demo Agency A",
+    "active_call": false
+  },
+  {
+    "seat": "S004",
+    "agency": "Demo Agency A",
+    "active_call": false
+  },
+  {
+    "seat": "S005",
+    "agency": "Demo Agency A",
+    "active_call": true
+  },
+  {
+    "seat": "S006",
+    "agency": "Demo Agency A",
+    "active_call": false
+  },
+  {
+    "seat": "S007",
+    "agency": "Demo Agency A",
+    "active_call": false
+  },
+  {
+    "seat": "S008",
+    "agency": "Demo Agency A",
+    "active_call": false
+  },
+  {
+    "seat": "S009",
+    "agency": "Demo Agency A",
+    "active_call": false
+  },
+  {
+    "seat": "S010",
+    "agency": "Demo Agency A",
+    "active_call": false
+  },
+  {
+    "seat": "S011",
+    "agency": "Demo Agency B",
+    "active_call": true
+  },
+  {
+    "seat": "S012",
+    "agency": "Demo Agency B",
+    "active_call": false
+  },
+  {
+    "seat": "S013",
+    "agency": "Demo Agency B",
+    "active_call": false
+  },
+  {
+    "seat": "S014",
+    "agency": "Demo Agency B",
+    "active_call": false
+  },
+  {
+    "seat": "S015",
+    "agency": "Demo Agency B",
+    "active_call": false
+  },
+  {
+    "seat": "S016",
+    "agency": "Demo Agency B",
+    "active_call": false
+  },
+  {
+    "seat": "S017",
+    "agency": "Demo Agency B",
+    "active_call": false
+  },
+  {
+    "seat": "S018",
+    "agency": "Demo Agency B",
+    "active_call": false
+  },
+  {
+    "seat": "S019",
+    "agency": "Demo Agency B",
+    "active_call": false
+  },
+  {
+    "seat": "S020",
+    "agency": "Demo Agency B",
+    "active_call": false
+  }
+]
